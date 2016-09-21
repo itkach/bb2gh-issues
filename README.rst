@@ -30,7 +30,7 @@ Prepare Environment
 
 - Activate it::
 
-    github-migration/bin/actiate
+    github-migration/bin/activate
 
 - Install required libraries::
 
